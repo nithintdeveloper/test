@@ -1,1 +1,4 @@
-#test
+com.instana.plugin.cve:
+  enabled: true
+  concert:
+    base_url: 'https://33580.use1-6.concert.test.saas.ibm.com'
