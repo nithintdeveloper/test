@@ -1,8 +1,8 @@
-#CVE
-#com.instana.plugin.cve:
-#  enabled: true
-#  concert:
-#    base_url: 'https://33580.use1-6.concert.test.saas.ibm.com'
-#    instance_id: '20240829-1613-1679-3083-629c7ac08735'
-#    api_key: ''
-#    poll_rate: 11 # Poll rate in minutes"
+CVE
+com.instana.plugin.cve:
+  enabled: true
+  concert:
+   base_url: 'https://33580.use1-6.concert.test.saas.ibm.com'
+    instance_id: '20240829-1613-1679-3083-629c7ac08735'
+    api_key: ''
+    poll_rate: 11 # Poll rate in minutes"
