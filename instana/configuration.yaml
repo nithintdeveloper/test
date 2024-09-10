@@ -1,4 +1,4 @@
-CVE
+#CVE
 com.instana.plugin.cve:
   enabled: true
   concert:
